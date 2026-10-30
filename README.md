@@ -46,12 +46,13 @@ Frontend Developer based in Pune, India, passionate about building responsive, u
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwapnilBhagat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swappy40b&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwapnilBhagat&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swappy40b&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
