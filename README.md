@@ -9,8 +9,8 @@ Frontend Developer based in Pune, India, passionate about building responsive, u
 - 🔭 Currently working on: AI Resume Builder
 - 🌱 Learning: MERN Stack and AI integration
 - 💼 Interested in: Frontend Development, Full-Stack Development, and AI-powered applications
-- 📫 Connect with me on LinkedIn: [Your LinkedIn URL]
-- 💬 Ask me about: React.js, Next.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB
+- 📫 Connect with me on LinkedIn: [https://www.linkedin.com/in/swapnil-bhagat-0370571b4/]
+- 💬 Ask me about: React.js, Next.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB,PHP,Python,Java,SQL
 
 ---
 
